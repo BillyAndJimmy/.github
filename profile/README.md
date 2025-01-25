@@ -1,7 +1,3 @@
-# CommandOverview
-
----
-
 ### 🌌 Meet the Crew
 **Billy and Jimmy** are two intrepid adventurers navigating the endless expanse of the cosmic void. Armed with determination, curiosity, and a knack for uncovering the extraordinary, they pilot their craft through the uncharted regions of the universe, seeking wealth hidden among the stars.
 
